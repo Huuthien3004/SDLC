@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\SDLC\bin\Debug\SDLC.exe.config
+C:\Users\ASUS\source\repos\SDLC\bin\Debug\SDLC.exe
+C:\Users\ASUS\source\repos\SDLC\bin\Debug\SDLC.pdb
+C:\Users\ASUS\source\repos\SDLC\obj\Debug\SDLC.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\SDLC\obj\Debug\SDLC.Form1.resources
+C:\Users\ASUS\source\repos\SDLC\obj\Debug\SDLC.Properties.Resources.resources
+C:\Users\ASUS\source\repos\SDLC\obj\Debug\SDLC.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\SDLC\obj\Debug\SDLC.exe
+C:\Users\ASUS\source\repos\SDLC\obj\Debug\SDLC.pdb
+C:\Users\ASUS\source\repos\SDLC\obj\Debug\SDLC.Form2.resources
+C:\Users\ASUS\source\repos\SDLC\obj\Debug\SDLC.Form3.resources
