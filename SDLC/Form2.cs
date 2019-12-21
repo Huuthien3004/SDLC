@@ -19,7 +19,7 @@ namespace SDLC
 
         private void Form2_Load(object sender, EventArgs e)
         {
-
+         MessageBox.Show("Please provide username and password");
         }
     }
 }
